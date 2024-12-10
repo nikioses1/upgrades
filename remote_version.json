@@ -1,0 +1,5 @@
+{
+    "version": "2.0.0",
+    "update_url": "../remote_file/update_opop.zip",
+    "changelog": "https://example.com/changelog.html"
+}
